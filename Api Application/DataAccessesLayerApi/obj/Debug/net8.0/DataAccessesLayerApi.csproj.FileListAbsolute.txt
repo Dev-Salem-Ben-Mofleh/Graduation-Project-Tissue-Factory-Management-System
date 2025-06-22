@@ -1,0 +1,12 @@
+F:\DataAccessesLayerApi\bin\Debug\net8.0\DataAccessesLayerApi.deps.json
+F:\DataAccessesLayerApi\bin\Debug\net8.0\DataAccessesLayerApi.dll
+F:\DataAccessesLayerApi\bin\Debug\net8.0\DataAccessesLayerApi.pdb
+F:\DataAccessesLayerApi\obj\Debug\net8.0\DataAccessesLayerApi.csproj.AssemblyReference.cache
+F:\DataAccessesLayerApi\obj\Debug\net8.0\DataAccessesLayerApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\DataAccessesLayerApi\obj\Debug\net8.0\DataAccessesLayerApi.AssemblyInfoInputs.cache
+F:\DataAccessesLayerApi\obj\Debug\net8.0\DataAccessesLayerApi.AssemblyInfo.cs
+F:\DataAccessesLayerApi\obj\Debug\net8.0\DataAccessesLayerApi.csproj.CoreCompileInputs.cache
+F:\DataAccessesLayerApi\obj\Debug\net8.0\DataAccessesLayerApi.dll
+F:\DataAccessesLayerApi\obj\Debug\net8.0\refint\DataAccessesLayerApi.dll
+F:\DataAccessesLayerApi\obj\Debug\net8.0\DataAccessesLayerApi.pdb
+F:\DataAccessesLayerApi\obj\Debug\net8.0\ref\DataAccessesLayerApi.dll

@@ -1,0 +1,15 @@
+F:\BussinesLayerApi\bin\Debug\net8.0\BussinesLayerApi.deps.json
+F:\BussinesLayerApi\bin\Debug\net8.0\BussinesLayerApi.dll
+F:\BussinesLayerApi\bin\Debug\net8.0\BussinesLayerApi.pdb
+F:\BussinesLayerApi\obj\Debug\net8.0\BussinesLayerApi.csproj.AssemblyReference.cache
+F:\BussinesLayerApi\obj\Debug\net8.0\BussinesLayerApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\BussinesLayerApi\obj\Debug\net8.0\BussinesLayerApi.AssemblyInfoInputs.cache
+F:\BussinesLayerApi\obj\Debug\net8.0\BussinesLayerApi.AssemblyInfo.cs
+F:\BussinesLayerApi\obj\Debug\net8.0\BussinesLayerApi.csproj.CoreCompileInputs.cache
+F:\BussinesLayerApi\obj\Debug\net8.0\BussinesLayerApi.dll
+F:\BussinesLayerApi\obj\Debug\net8.0\refint\BussinesLayerApi.dll
+F:\BussinesLayerApi\obj\Debug\net8.0\BussinesLayerApi.pdb
+F:\BussinesLayerApi\obj\Debug\net8.0\ref\BussinesLayerApi.dll
+F:\BussinesLayerApi\bin\Debug\net8.0\DataAccessesLayerApi.dll
+F:\BussinesLayerApi\bin\Debug\net8.0\DataAccessesLayerApi.pdb
+F:\BussinesLayerApi\obj\Debug\net8.0\Bussines.F1DDB29E.Up2Date
